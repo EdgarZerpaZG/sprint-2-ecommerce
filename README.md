@@ -2,7 +2,7 @@
 
 El siguiente proyecto correspoden a la evaluación del Sprint N°2.2 en la especialización de Frontend React/Angular de la IT Academy.
 
-Esta actividad corresponde al desarrollo de un **E-Commerce** con la finalidad llevar a la práctica los aprendido en el ejercicios básicos de **JavaScript** que se han realizado en la actividad **N°2.1**
+Esta actividad corresponde al desarrollo de un **E-Commerce** con la finalidad de llevar a la práctica lo aprendido en los ejercicios básicos de **JavaScript** que se han realizado en la actividad **N°2.1**
 
 # 2.2: E-commerce:
 
@@ -17,7 +17,7 @@ Con este proyecto se busca:
 7. Validaciones en un formulario de contacto tanto desde el **HTML** como desde el **JavaScript**.
 8. Guardar la información de los productos que se han añadido al carrito de compras en el **local storage** del navegador.
 
-El proyecto se divide a través de los siguientes archivos:
+El proyecto se divide a través de los siguientes archivos y directorios:
 
 - **index.html**: vista principal de la tienda virtual donde se pueden agregar los productos al carrito de compras y controlar la cantidad de cada uno agregado.
 - **form.html**: la segunda vista de la tienda donde se encuentra el formulario de contacto. A este formulario se le han asignado diferentes validaciones para controlar el tipo de datos que en usuario ingresa en cada campo, desde un mínimo de carácteres hasta solo numericos.
@@ -43,7 +43,7 @@ Directorio para el archivo donde se almacena la información de los productos mo
 
 # .vscode
 
-Directorio creado para la configuración del puerto utilizado al ejecutar un servidor local. Este contiene el archivo **settings.json** que se encarga de al momento de ejecutar el servidor, que es necesario para poder llamar ls información de los productos almacenados en el archivos **products.json**, poder asignar de modo predeterminado el puerto **5501**. Esto solo es como medida preventiva de que el puerto por defecto **5500** ya esté siendo utilizado, esta configuración no afecta el funcionamiento del E-commerce.
+Directorio creado para la configuración del puerto utilizado al ejecutar un servidor local. Este contiene el archivo **settings.json** que se encarga de al momento de ejecutar el servidor, que es necesario para poder llamar ls información de los productos almacenados en el archivos **products.json**, poder asignar de modo predeterminado el puerto **5501**. Esto solo es una medida preventiva de que el puerto por defecto **5500** ya esté siendo utilizado, no afecta el funcionamiento del E-commerce.
 
 # Instrucciones:
 
