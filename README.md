@@ -2,7 +2,7 @@
 
 El siguiente proyecto correspoden a la evaluación del Sprint N°2.2 en la especialización de Frontend React/Angular de la IT Academy.
 
-Esta actividad corresponde a un al desarrollo de un **E-Commerce** con la finalidad llevar a la práctica los aprendido en el ejercicios básicos de **JavaScript** que se han realizado en la actividad **N°2.1**
+Esta actividad corresponde al desarrollo de un **E-Commerce** con la finalidad llevar a la práctica los aprendido en el ejercicios básicos de **JavaScript** que se han realizado en la actividad **N°2.1**
 
 # 2.2: E-commerce:
 
